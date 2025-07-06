@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.dark-theme {
+  background-color: #121212;
+  color: white;
+  min-height: 100vh;
+}
+
+.light-theme {
+  background-color: #ffffff;
+  color: black;
+  min-height: 100vh;
+}
